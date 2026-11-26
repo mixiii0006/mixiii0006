@@ -40,14 +40,10 @@ I build web applications end to end: understanding the user's problem, designing
 
 | Project | Description | Stack |
 |---|---|---|
-| **Sistem Informasi Disposisi Surat** | Digital mail tracking and tiered disposition for the Bengkulu Provincial Education Office. Senders track status via code or QR. *(client, private repo)* | Next.js, NestJS, PostgreSQL, Redis, Docker |
-| **SIMAWA UNIB** | Official student affairs portal at [kemahasiswaan.unib.ac.id](https://kemahasiswaan.unib.ac.id): scholarships, achievements, organizations, with self-service scholarship status lookup. *(live)* | WordPress, PHP, MySQL, REST API |
-| **NADI POS** | Point-of-sale and bookkeeping app for food & beverage businesses, built from interviews with 11 outlets; keeps working offline. *(team, in development)* | Flutter, Dart, PostgreSQL, Docker |
-| **FiniS** | Accounting and tax platform for business groups with automatic consolidated reports and an immutable audit journal. *(in development)* | React, NestJS, PostgreSQL, Docker |
-| **IDX Quant Lab** | Research platform for backtesting Indonesian stock selection strategies under real exchange rules. *(in development)* | Python, JavaScript, GitHub Actions |
-| [**EcoRecipes**](https://github.com/mixiii0006/EcoRecipes) | Recipe recommendations from available ingredients with carbon footprint estimates. DBS Coding Camp capstone. | Vue.js, Express.js, MongoDB, ML |
+| [**EcoRecipes**](https://github.com/mixiii0006/EcoRecipes) | Recipe recommendations from available ingredients with carbon footprint estimates. DBS Coding Camp 2025 capstone. | Vue.js, Express.js, MongoDB, ML |
 | [**MedSched**](https://github.com/mixiii0006/MedSched) | Lecture and room scheduling system for FKIK Universitas Bengkulu that prevents room conflicts. | Laravel, MySQL, Tailwind CSS |
 | [**MixxStore**](https://github.com/mixiii0006/E-Commerce-Mixxie) | Online store with full checkout flow and an admin panel for products and orders. | Laravel, Livewire, Filament, MySQL |
+| [**Website Profil Desa Sumber Urip**](https://github.com/mixiii0006/KKNSumberUrip) | Village profile website and CMS built during the KKN program at Universitas Bengkulu. | Laravel, MySQL, SCSS |
 
 ### GitHub Stats
 
