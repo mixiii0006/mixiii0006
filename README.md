@@ -48,8 +48,8 @@ I build web applications end to end: understanding the user's problem, designing
 ### GitHub Stats
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mixiii0006&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=default" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mixiii0006&layout=compact&hide_border=true&langs_count=8" alt="Top languages"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mixiii0006&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent&title_color=2f80ed&icon_color=2f80ed&text_color=7d8590" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mixiii0006&layout=compact&hide_border=true&langs_count=8&theme=transparent&title_color=2f80ed&text_color=7d8590" alt="Top languages"/>
 </p>
 
 ### Certifications
