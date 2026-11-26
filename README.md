@@ -47,9 +47,9 @@ I build web applications end to end: understanding the user's problem, designing
 
 ### GitHub Stats
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mixiii0006&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent&title_color=2f80ed&icon_color=2f80ed&text_color=7d8590" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mixiii0006&layout=compact&hide_border=true&langs_count=8&theme=transparent&title_color=2f80ed&text_color=7d8590" alt="Top languages"/>
+<p align="center">
+  <img height="170" src="https://streak-stats.demolab.com/?user=mixiii0006&hide_border=true&background=00000000&ring=2F80ED&fire=2F80ED&currStreakNum=2F80ED&sideNums=2F80ED&currStreakLabel=7D8590&sideLabels=7D8590&dates=7D8590&stroke=30363D" alt="GitHub streak"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mixiii0006&layout=compact&hide_border=true&langs_count=6&hide=css,scss,hack,html&card_width=320&theme=transparent&title_color=2f80ed&text_color=7d8590" alt="Top languages"/>
 </p>
 
 ### Certifications
